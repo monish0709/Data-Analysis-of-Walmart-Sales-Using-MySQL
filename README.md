@@ -1,6 +1,6 @@
-# Walmart-Sales-Data-Analysis-With-MySQL
+# Data Analysis of Walmart Sales Using MySQL
 
-# Walmart Sales Data Analysis
+# Data Analysis of Walmart Sales
 
 ## About
 
